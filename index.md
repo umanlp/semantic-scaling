@@ -8,7 +8,7 @@ layout: default
 
 This is the online appendix for the paper **Political Text Scaling Meets Computational Semantics** [\[working draft\]](https://arxiv.org/abs/1904.06217) by *Federico Nanni, Goran Glavaš, Ines Rehbein, Simone Paolo Ponzetto and Heiner Stuckenschmidt*.
 
-The paper introduces SemScale, a tool for text scaling aware of the semantics of the documents under study. You can use our [command-line tool](https://github.com/umanlp/SemScale), implemented in Python.
+The paper introduces **SemScale**, a tool for text scaling aware of the semantics of the documents under study. You can use our [command-line tool](https://github.com/umanlp/SemScale), implemented in Python.
 
 # Main Experiments
 
