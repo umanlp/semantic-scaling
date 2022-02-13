@@ -35,4 +35,4 @@ url: "" # https://irehbein.github.io # the base hostname & protocol for your sit
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-modernist
